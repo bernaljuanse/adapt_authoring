@@ -1,5 +1,5 @@
 {
-  "registry": "http://adapt-bower-repository.herokuapp.com",
+  "registry": "http://54.156.201.53:3333",
   "directory": "plugins/content/bower/bowercache",
   "_adaptSchemaFile":"properties.schema",
   "_forceRefresh": false
